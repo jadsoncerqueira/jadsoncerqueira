@@ -18,3 +18,21 @@ Você pode me encontrar em:_
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
+## GitHub Stats
+
+<table>
+<tr><td>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadsoncerqueira&show_icons=true&theme=blue-green" />
+  </a>
+
+</td><td>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsoncerqueira&layout=compact&theme=blue-green" />
+  </a>
+
+</td></tr>
+</table>
+
