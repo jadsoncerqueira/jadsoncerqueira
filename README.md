@@ -3,7 +3,7 @@
 _Meu nome é Jadson, sou desenvolvedor web, moro na Bahia, e atualmente estudo na [@betrybe](https://www.betrybe.com/). <br>
 Você pode me encontrar em:_
 
-<a href="https://www.linkedin.com/in/jadson-s-cerqueira-dev-619547189/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/jadsoncerqueira"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Email: jadsoncerqueira97@gmail.com
 
