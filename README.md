@@ -1,4 +1,4 @@
-# Olá Pessoal! <img width="30px" height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/> 👨‍💻
+# Olá! <img width="30px" height="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/> 👨‍💻
 
 _Meu nome é Jadson, sou desenvolvedor web, moro na Bahia, e atualmente estudo na [@betrybe](https://www.betrybe.com/). <br>
 Você pode me encontrar em:_
