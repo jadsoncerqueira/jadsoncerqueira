@@ -37,4 +37,6 @@ Email: jadsoncerqueira97@gmail.com
 
 </td></tr>
 </table>
+</br>
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/jadsoncerqueira/count.svg" /> </p>
 
