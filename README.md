@@ -1,7 +1,7 @@
 
 <b> Olá, meu nome é Jadson!</b>👨‍💻
 
-<p>Sou aluno de desenvolvimento full-stack da Trybe, sendo dono de uma personalidade analítica e atento às mudanças atuais que estamos passando, decidi tirar um ano produtivo para me dedicar totalmente ao meu processo de aprendizado para me tornar um desenvolvedor!</p>
+<p>Sou Desenvolvedor Web Full-Stack</p>
 
 <table>
 <tr><td>
