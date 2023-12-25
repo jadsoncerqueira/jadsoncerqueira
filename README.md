@@ -20,12 +20,7 @@
 </table>
 </br>
 
-
-O que eu tenho feito
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jvieyrah&repo=trybe-exercicios&theme=radical)](https://github.com/jadsoncerqueira/trybe-exercicios)
-
-Habilidades que eu adquiri até agora
+Habilidades que eu adquiri
 
 Linguagens & Scripts:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
